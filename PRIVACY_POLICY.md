@@ -17,6 +17,6 @@ users, number of crashes, etc. All of which is collected for the purposes of ana
 
 If there are any concerns about the data stored by the app, please reach out to me using my contact information below.
 
-Liam Crocket
-liamcrocket@gmail.com
+Liam Crocket  
+liamcrocket@gmail.com  
 github.com/liamcr
