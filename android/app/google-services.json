@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "462976140671",
-    "firebase_url": "https://cards-925d0.firebaseio.com",
-    "project_id": "cards-925d0",
-    "storage_bucket": "cards-925d0.appspot.com"
+    "project_number": "1029160249174",
+    "project_id": "crockets-classic-cards-351c5",
+    "storage_bucket": "crockets-classic-cards-351c5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:462976140671:android:4f7fd0cee54bef0561864a",
+        "mobilesdk_app_id": "1:1029160249174:android:bfe406ef0871f1247198f7",
         "android_client_info": {
-          "package_name": "com.crocketsclassiccards"
+          "package_name": "com.liamcrocketdev.crocketsclassiccards"
         }
       },
       "oauth_client": [
         {
-          "client_id": "462976140671-bktqe17s78qgue0plg191f96idpbmn77.apps.googleusercontent.com",
+          "client_id": "1029160249174-tiael36ehjredf8i13jpth895th4p61h.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC10Uf5QIL77st_-vqAValotO1ezirEyIY"
+          "current_key": "AIzaSyAAgcUu5EHxcKWEjcol_X_VK1X7JpISqYg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "462976140671-bktqe17s78qgue0plg191f96idpbmn77.apps.googleusercontent.com",
+              "client_id": "1029160249174-tiael36ehjredf8i13jpth895th4p61h.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

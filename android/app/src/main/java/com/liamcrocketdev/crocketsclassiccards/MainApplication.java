@@ -1,4 +1,4 @@
-package com.crocketsclassiccards;
+package com.liamcrocketdev.crocketsclassiccards;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

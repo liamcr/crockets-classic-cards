@@ -74,9 +74,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.crocketsclassiccards"
+    namespace "com.liamcrocketdev.crocketsclassiccards"
     defaultConfig {
-        applicationId "com.crocketsclassiccards"
+        applicationId "com.liamcrocketdev.crocketsclassiccards"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
@@ -127,6 +127,11 @@ dependencies {
     } else {
         implementation jscFlavor
     }
+
+    implementation(platform('com.google.firebase:firebase-bom:32.2.2'))
+
+    implementation('com.google.firebase:firebase-analytics')
+    implementation('com.google.firebase:firebase-firestore')
 }
 
 apply from: file("../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesAppBuildGradle(project)

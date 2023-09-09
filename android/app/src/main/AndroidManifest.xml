@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.crocketsclassiccards">
+  package="com.liamcrocketdev.crocketsclassiccards">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
